@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "THE SCRIPTS WE INHERIT",
+    "description": "",
+    "home_page_url": "https://scriptsweinherit.com",
+    "feed_url": "https://scriptsweinherit.com/feed.json",
+    "user_comment": "",
+    "icon": "https://scriptsweinherit.com/media/website/Copy-of-Copy-of-Blue-and-White-Minimalist-Film-Festival-Poster.png",
+    "author": {
+        "name": "Alan A. Mehanna"
+    },
+    "items": [
+        {
+            "id": "https://scriptsweinherit.com/episodes/episode-00/",
+            "url": "https://scriptsweinherit.com/episodes/episode-00/",
+            "title": "EPISODE 001",
+            "summary": "LEBANON — RAFIK AL HARIRI AIRPORT It’s midday. The harsh summer sun blazes down calling forth heat shimmers. Traffic and the sound of horns&hellip;",
+            "image": "https://scriptsweinherit.com/media/posts/1/EPISODE-2.jpg",
+            "author": {
+                "name": "Alan A. Mehanna"
+            },
+            "tags": [
+                   "Episode"
+            ],
+            "date_published": "2026-08-31T11:46:39+03:00",
+            "date_modified": "2026-08-31T15:06:19+03:00"
+        }
+    ]
+}
