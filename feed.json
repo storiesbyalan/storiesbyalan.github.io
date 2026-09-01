@@ -10,20 +10,5 @@
         "name": "Alan A. Mehanna"
     },
     "items": [
-        {
-            "id": "https://scriptsweinherit.com/episodes/episode-00/",
-            "url": "https://scriptsweinherit.com/episodes/episode-00/",
-            "title": "EPISODE 001",
-            "summary": "LEBANON — RAFIK AL HARIRI AIRPORT It’s midday. The harsh summer sun blazes down calling forth heat shimmers. Traffic and the sound of horns&hellip;",
-            "image": "https://scriptsweinherit.com/media/posts/1/EPISODE-2.jpg",
-            "author": {
-                "name": "Alan A. Mehanna"
-            },
-            "tags": [
-                   "Episode"
-            ],
-            "date_published": "2026-08-31T11:46:39+03:00",
-            "date_modified": "2026-08-31T15:06:19+03:00"
-        }
     ]
 }
