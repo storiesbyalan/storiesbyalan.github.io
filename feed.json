@@ -14,7 +14,7 @@
             "id": "https://scriptsweinherit.com/episodes/episode-002/",
             "url": "https://scriptsweinherit.com/episodes/episode-002/",
             "title": "EPISODE 002",
-            "summary": "PREVIOUSLY ON",
+            "summary": "PREVIOUSLY ON DIVIDER",
             "author": {
                 "name": "Alan A. Mehanna"
             },
@@ -22,7 +22,7 @@
                    "Episodes"
             ],
             "date_published": "2026-09-01T17:44:46+03:00",
-            "date_modified": "2026-09-02T11:28:22+03:00"
+            "date_modified": "2026-09-02T13:41:57+03:00"
         },
         {
             "id": "https://scriptsweinherit.com/episodes/episode-00/",
@@ -36,7 +36,7 @@
                    "Episodes"
             ],
             "date_published": "2026-08-31T11:46:39+03:00",
-            "date_modified": "2026-09-01T18:01:15+03:00"
+            "date_modified": "2026-09-02T14:01:14+03:00"
         }
     ]
 }
