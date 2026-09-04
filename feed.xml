@@ -3,44 +3,10 @@
     <title>THE SCRIPTS WE INHERIT</title>
     <link href="https://scriptsweinherit.com/feed.xml" rel="self" />
     <link href="https://scriptsweinherit.com" />
-    <updated>2026-09-04T11:40:22+03:00</updated>
+    <updated>1970-01-01T02:00:00+02:00</updated>
     <author>
         <name>Alan A. Mehanna</name>
     </author>
     <id>https://scriptsweinherit.com</id>
 
-    <entry>
-        <title>EPISODE 002</title>
-        <author>
-            <name>Alan A. Mehanna</name>
-        </author>
-        <link href="https://scriptsweinherit.com/episodes/episode-002/"/>
-        <id>https://scriptsweinherit.com/episodes/episode-002/</id>
-            <category term="Episodes"/>
-
-        <updated>2026-09-04T10:03:56+03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    PREVIOUSLY ON LEBANON — RAFIK AL HARIRI AIRPORT AMIR: Hey, it’s me… I’ll make sure to be there bright and early tomorrow morning.… A&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>EPISODE 001</title>
-        <author>
-            <name>Alan A. Mehanna</name>
-        </author>
-        <link href="https://scriptsweinherit.com/episodes/episode-001/"/>
-        <id>https://scriptsweinherit.com/episodes/episode-001/</id>
-            <category term="Episodes"/>
-
-        <updated>2026-09-04T05:50:08+03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    LEBANON — RAFIK AL HARIRI AIRPORT It’s midday. The harsh summer sun blazes down calling forth heat shimmers. Traffic and the sound of horns&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
 </feed>

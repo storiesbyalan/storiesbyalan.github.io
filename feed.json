@@ -10,33 +10,5 @@
         "name": "Alan A. Mehanna"
     },
     "items": [
-        {
-            "id": "https://scriptsweinherit.com/episodes/episode-002/",
-            "url": "https://scriptsweinherit.com/episodes/episode-002/",
-            "title": "EPISODE 002",
-            "summary": "PREVIOUSLY ON LEBANON — RAFIK AL HARIRI AIRPORT AMIR: Hey, it’s me… I’ll make sure to be there bright and early tomorrow morning.… A&hellip;",
-            "author": {
-                "name": "Alan A. Mehanna"
-            },
-            "tags": [
-                   "Episodes"
-            ],
-            "date_published": "2026-09-04T10:03:56+03:00",
-            "date_modified": "2026-09-04T11:40:22+03:00"
-        },
-        {
-            "id": "https://scriptsweinherit.com/episodes/episode-001/",
-            "url": "https://scriptsweinherit.com/episodes/episode-001/",
-            "title": "EPISODE 001",
-            "summary": "LEBANON — RAFIK AL HARIRI AIRPORT It’s midday. The harsh summer sun blazes down calling forth heat shimmers. Traffic and the sound of horns&hellip;",
-            "author": {
-                "name": "Alan A. Mehanna"
-            },
-            "tags": [
-                   "Episodes"
-            ],
-            "date_published": "2026-09-04T05:50:08+03:00",
-            "date_modified": "2026-09-04T11:32:25+03:00"
-        }
     ]
 }
