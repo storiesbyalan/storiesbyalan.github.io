@@ -5,10 +5,23 @@
     "home_page_url": "https://scriptsweinherit.com",
     "feed_url": "https://scriptsweinherit.com/feed.json",
     "user_comment": "",
-    "icon": "https://scriptsweinherit.com/media/website/The-Scripts-We-Inherit-Logo.png",
+    "icon": "https://scriptsweinherit.com/media/website/TSWIM-LOGO-2-2.png",
     "author": {
         "name": "Alan A. Mehanna"
     },
     "items": [
+        {
+            "id": "https://scriptsweinherit.com/episodes/episode-001/",
+            "url": "https://scriptsweinherit.com/episodes/episode-001/",
+            "title": "EPISODE 001",
+            "summary": "AIRPLANE OVER THE MEDITERRANEAN The inside of the plane is dark, not entirely quite. A young child laughs somewhere in the back rows. A&hellip;",
+            "author": {
+                "name": "Alan A. Mehanna"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-04T05:50:08+03:00",
+            "date_modified": "2026-09-12T11:45:35+03:00"
+        }
     ]
 }
