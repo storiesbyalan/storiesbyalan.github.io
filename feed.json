@@ -10,5 +10,31 @@
         "name": "Alan A. Mehanna"
     },
     "items": [
+        {
+            "id": "https://scriptsweinherit.com/episodes/episode-002/",
+            "url": "https://scriptsweinherit.com/episodes/episode-002/",
+            "title": "EPISODE 002",
+            "summary": "PREVIOUSLY ON BEIRUT J&amp;R STUDIOS, JAD’S OFFICE JJ tilts his head. Brow furrows. JAD This is a big undertaking, especially given your responsibilities as&hellip;",
+            "author": {
+                "name": "Alan A. Mehanna"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-04T10:03:56+03:00",
+            "date_modified": "2026-09-12T19:06:39+03:00"
+        },
+        {
+            "id": "https://scriptsweinherit.com/episodes/episode-001/",
+            "url": "https://scriptsweinherit.com/episodes/episode-001/",
+            "title": "EPISODE 001",
+            "summary": "AIRPLANE OVER THE MEDITERRANEAN The inside of the plane is dark, not entirely quite. A young child laughs somewhere in the back rows. A&hellip;",
+            "author": {
+                "name": "Alan A. Mehanna"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-04T05:50:08+03:00",
+            "date_modified": "2026-10-04T19:04:30+03:00"
+        }
     ]
 }
