@@ -3,7 +3,7 @@
     <title>THE SCRIPTS WE INHERIT</title>
     <link href="https://scriptsweinherit.com/feed.xml" rel="self" />
     <link href="https://scriptsweinherit.com" />
-    <updated>2026-10-04T19:04:30+03:00</updated>
+    <updated>2026-10-07T08:32:40+03:00</updated>
     <author>
         <name>Alan A. Mehanna</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://scriptsweinherit.com/episodes/episode-002/"/>
         <id>https://scriptsweinherit.com/episodes/episode-002/</id>
+            <category term="episode"/>
 
         <updated>2026-09-04T10:03:56+03:00</updated>
             <summary type="html">
@@ -32,6 +33,7 @@
         </author>
         <link href="https://scriptsweinherit.com/episodes/episode-001/"/>
         <id>https://scriptsweinherit.com/episodes/episode-001/</id>
+            <category term="episode"/>
 
         <updated>2026-09-04T05:50:08+03:00</updated>
             <summary type="html">
