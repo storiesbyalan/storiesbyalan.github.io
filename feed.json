@@ -1,14 +1,28 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "THE SCRIPTS WE INHERIT",
+    "title": "Stories by Alan",
     "description": "",
-    "home_page_url": "https://scriptsweinherit.com",
-    "feed_url": "https://scriptsweinherit.com/feed.json",
+    "home_page_url": "https://www.storiesbyalan.com",
+    "feed_url": "https://www.storiesbyalan.com/feed.json",
     "user_comment": "",
-    "icon": "https://scriptsweinherit.com/media/website/TSWI-LOGO-2.png",
+    "icon": "https://www.storiesbyalan.com/media/website/WebLogo.png",
     "author": {
         "name": "Alan A. Mehanna"
     },
     "items": [
+        {
+            "id": "https://www.storiesbyalan.com/and-curtain-chapter-01/",
+            "url": "https://www.storiesbyalan.com/and-curtain-chapter-01/",
+            "title": "Chapter One",
+            "summary": "“I am so fucking done with this shit.” Jean slams his foot on the stage, dust fleeing at the act. I look at him unsure&hellip;",
+            "author": {
+                "name": "Alan A. Mehanna"
+            },
+            "tags": [
+                   "...and Curtain"
+            ],
+            "date_published": "2026-11-24T09:29:51+02:00",
+            "date_modified": "2026-11-24T10:57:11+02:00"
+        }
     ]
 }
